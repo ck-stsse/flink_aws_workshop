@@ -659,7 +659,7 @@ The next step is to sink data from Confluent Cloud into MYSQL RDS using the [ful
 | `Connection Host`      | flinkworkshop-21june.ce55ecgrngw4.us-east-2.rds.amazonaws.com       |
 | `Connection Port`      | 3306                               |
 | `Connection User`      | admin                              |
-| `Connection Password`	 | Linux12345!                        |
+| `Connection Password`	 | ***********                        |
 | `Database Name`        | flink_workshop                     |
 | `SSL Mode`             | Prefer                             |
 | `Tasks`                | 1                                  |
