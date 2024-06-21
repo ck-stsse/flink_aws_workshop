@@ -343,10 +343,10 @@ SELECT * FROM stocks_topic;
 DESCRIBE users_topic;
 ```
 
-4. Check the customers in Texas whose name start with `B`.
+4. Check the list of male customers in Region_5.
 ```sql
 SELECT * FROM users_topic
-  WHERE `userid` = 'User_8' AND `gender` LIKE 'MA%';
+  WHERE `regionid` = 'Region_5' AND `gender` LIKE 'MA%';
 ```
 
 5. Check the first five stocks trades for one customer.
