@@ -695,7 +695,7 @@ Deleting the resources you created during this workshop will prevent you from in
     <img src="images/delete_compute_pool.png" width=50% height=50%>
 </div>
 
-2. Delete the BigQuery sink connector by navigating to **Connectors** in the navigation panel, clicking your connector name, then clicking the trash can icon in the upper right and entering the connector name to confirm the deletion.
+2. Delete the MYSQL sink connector by navigating to **Connectors** in the navigation panel, clicking your connector name, then clicking the trash can icon in the upper right and entering the connector name to confirm the deletion.
 
 <div align="center">
     <img src="images/delete_mysql_connector.png" width=60% height=60%>
